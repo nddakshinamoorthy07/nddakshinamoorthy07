@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hello, I'm DAKSHINA MOORTHY N D
+Glad you're here! On my GitHub, you'll find an aspiring developer who's passionate about tech, always learning, and building impactful projects. I really value clean code and love teaming up with others to solve real-world challenges.
 
-<!--
-**nddakshinamoorthy07/nddakshinamoorthy07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+* I’m currently studying at Saveetha Engineering College(SEC).
+* Always learning: HTML,CSS,JAVA SCRIPT.
+*  Career goals: Become a full-stack developer, work in AI.
+*  Based in: Ponneri
 
-Here are some ideas to get you started:
+ # Tech Stack
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Frontend              | Backend           | Tools & Platforms     |
+| --------------------- | ----------------- | --------------------- |
+| HTML, CSS, JavaScript | Python, Node.js   | Git, GitHub, VS Code  |
+| React, Tailwind CSS   | Express.js, MySQL | Figma, Linux, Postman |
+
+
+# Portfolio
+LinkedIn: https://www.linkedin.com/in/dakshina-moorthy-n-d-9a365b313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+# Fun Fact
+
+Favorite quote: “Code is like humor. When you have to explain it, it’s bad.”
+Hobbies: Gaming, reading, design, and building side projects.
+
+# GitHub Insights
+
+Get in Touch:
+
+* Email: nddakshinamoorthy07@gmail.com
+* GitHub : https://github.com/nddakshinamoorthy07
+
+# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nddakshinamoorthy07&show_icons=true&theme=radical)
+
+
+
+# Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nddakshinamoorthy07&layout=compact&theme=radical)
+
+
+# Thanks for visiting my profile! Feel free to connect or check out my projects.
